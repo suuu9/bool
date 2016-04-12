@@ -13,6 +13,8 @@ require('./include/init.php');
 
 log::write('你好');
 
+print_r($_GET);
+
 echo '你好';
 
 

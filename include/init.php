@@ -22,3 +22,9 @@ if(defined('DEBUG')) {
 require(ROOT . 'include/db.class.php');
 require(ROOT . 'include/conf.class.php');
 require(ROOT . 'include/log.class.php');
+require(ROOT . 'include/lib_base.php');
+
+//请求数据转义 $_GET\$_POST\$_COOKIE
+$_GET = _addslashes($_GET);
+$_POST = _addslashes($_POST);
+$_COOKIE = _addslashes($_COOKIE);

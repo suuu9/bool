@@ -11,10 +11,10 @@ header('Content-type:text/html;charset=utf-8');
 
 require('./include/init.php');
 
-log::write('你好');
+$testModel = new TestModel();
 
-print_r($_GET);
+$result = $testModel->reg(array('title'=>'titletest', 'content'=>'contenttitle'));
 
-echo '你好';
+var_dump($result);
 
 

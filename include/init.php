@@ -19,10 +19,15 @@ if(defined('DEBUG')) {
 }
 
 //载入类文件
-require(ROOT . 'include/db.class.php');
-require(ROOT . 'include/conf.class.php');
-require(ROOT . 'include/log.class.php');
 require(ROOT . 'include/lib_base.php');
+
+function __autoload($class) {
+    if(strtolower(substr($class, -5)) == 'model'){
+        require(ROOT . 'model/' . $class . '.class.php');
+    } else {
+        require(ROOT . 'include/' . $class . '.class.php');
+    }
+}
 
 //请求数据转义 $_GET\$_POST\$_COOKIE
 $_GET = _addslashes($_GET);

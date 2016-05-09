@@ -11,5 +11,7 @@
 $_CFG = array(
     'host' => 'localhost',
     'user' => 'root',
-    'pwd'  => '123456'
+    'pwd'  => '123456',
+    'db'   => 'boolshop',
+    'char' => 'utf8'
 );

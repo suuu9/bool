@@ -1,1 +1,73 @@
-你好123213123
+connect:localhost,root,123456
+use boolshop
+set names utf8
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''title', 'content') values ('test1', 'test2')' at line 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' )' at line 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'test3' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Column count doesn't match value count at row 1
+Column count doesn't match value count at row 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Column count doesn't match value count at row 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Column count doesn't match value count at row 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Column count doesn't match value count at row 1
+connect:localhost,root,123456
+use boolshop
+            set names utf8
+            Column count doesn't match value count at row 1
+            connect:localhost,root,123456
+            use boolshop
+set names utf8
+insert into test (title,content) values ('')
+Column count doesn't match value count at row 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insertinsert into test (title,content) values ('')
+Column count doesn't match value count at row 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into test (title,content) values ('test4,test4')
+Column count doesn't match value count at row 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into test (title,content) values ('')
+Column count doesn't match value count at row 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into test (title,content) values ('test4','test4')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into test (title,content) values ('titletest','contenttitle')

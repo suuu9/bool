@@ -32,7 +32,7 @@ class log {
 
     //读取并判断日志大小
     private static function isBak() {
-        $log = ROOT . 'data/log/' . SELF::LOGFILE;
+        $log = ROOT . 'data/log/' . self::LOGFILE;
 
         //判断文件是否存在，如果不存在则创建
         if(!file_exists($log)) {

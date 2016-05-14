@@ -71,3 +71,972 @@ connect:localhost,root,123456
 use boolshop
 set names utf8
 insert:insert into test (title,content) values ('titletest','contenttitle')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into test (title,content) values ('titletest','contenttitle')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into category (cat_name,parent_id,intro) values ('男装','1','男人穿的衣服')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into category (cat_name,parent_id,intro) values ('女装','0','女人')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'car_id' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into category (cat_name,parent_id,intro) values ('男士商务','1','男士商务')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into category (cat_name,parent_id,intro) values ('女士商务','1','女士商务')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into category (cat_name,parent_id,intro) values ('女士商务','1','女士商务')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into category (cat_name,parent_id,intro) values ('女士商务','2','女士商务')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into category (cat_name,parent_id,intro) values ('童装','0','儿童')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into category (cat_name,parent_id,intro) values ('男士商务','1','男士商务')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into category (cat_name,parent_id,intro) values ('女士商务','2','女士商务')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into category (cat_name,parent_id,intro) values ('儿童上衣','7','儿童上衣')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into category (cat_name,parent_id,intro) values ('女士商务','2','女士商务123')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+update:update category set cat_name='女士商务123',parent_id='2',intro='女士商务123' where cat_id=11
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'select cat_id,cat_name,intro,parent_id from category where parent_id=2' at line 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into category (cat_name,parent_id,intro) values ('男士休闲','1','男士休闲')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,is_best,is_new,is_hot,is_on_sale,keywords,goods_brief,add_time) values ('耐克','asdfasdf','1','100','120','耐克耐克耐克','10','0','0','0','1','耐克 耐克 耐克','耐克耐克耐克','1463123739')
+Unknown column 'keywords' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,is_best,is_new,is_hot,is_on_sale,keywords,goods_brief,add_time) values ('耐克','asdfasdf','1','100','120','耐克耐克耐克','10','0','0','0','1','耐克 耐克 耐克','耐克耐克耐克','1463123756')
+Unknown column 'keywords' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,is_best,is_new,is_hot,is_on_sale,keywords,goods_brief,add_time) values ('耐克','asdfasdf','1','100','120','耐克耐克耐克','10','0','0','0','1','耐克 耐克 耐克','耐克耐克耐克','1463123790')
+Unknown column 'keywords' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,is_best,is_new,is_hot,is_on_sale,keywords,goods_brief,add_time) values ('耐克','asdfasdf','1','100','120','耐克耐克耐克','10','0','0','0','1','耐克 耐克 耐克','耐克耐克耐克','1463124554')
+Unknown column 'keywords' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,is_best,is_new,is_hot,is_on_sale,keywords,goods_brief,add_time) values ('耐克','asdfasdf','1','100','120','耐克耐克耐克','10','0','0','0','1','耐克 耐克 耐克','耐克耐克耐克','1463124556')
+Unknown column 'keywords' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,is_best,is_new,is_hot,is_on_sale,keywords,goods_brief,add_time) values ('耐克','asdfasdf','1','100','120','耐克耐克耐克','10','0','0','0','1','耐克 耐克 耐克','耐克耐克耐克','1463124558')
+Unknown column 'keywords' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,is_best,is_new,is_hot,is_on_sale,keywords,goods_brief,add_time) values ('耐克','asdfasdf','1','100','120','耐克耐克耐克','10','0','0','0','1','耐克 耐克 耐克','耐克耐克耐克','1463124560')
+Unknown column 'keywords' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,is_best,is_new,is_hot,is_on_sale,keywords,goods_brief,add_time) values ('耐克','asdfasdf','1','100','120','耐克耐克耐克','10','0','0','0','1','耐克 耐克 耐克','耐克耐克耐克','1463124981')
+Unknown column 'keywords' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,is_best,is_new,is_hot,is_on_sale,keywords,goods_brief,add_time) values ('耐克','asdfasdf','1','100','120','耐克耐克耐克','10','0','0','0','0','耐克 耐克 耐克','耐克耐克耐克','1463124992')
+Unknown column 'keywords' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,is_best,is_new,is_hot,is_on_sale,keywords,goods_brief,add_time) values ('耐克','asdfasdf','1','100','120','耐克耐克耐克','10','0','0','0','0','耐克 耐克 耐克','耐克耐克耐克','1463125200')
+Unknown column 'keywords' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,is_best,is_new,is_hot,is_on_sale,keywords,goods_brief,add_time) values ('耐克','asdfasdf','1','100','120','耐克耐克耐克','10','0','0','0','1','耐克 耐克 耐克','耐克耐克耐克','1463125207')
+Unknown column 'keywords' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,is_best,is_new,is_hot,is_on_sale,keywords,goods_brief,add_time) values ('耐克','asdfasdf','1','100','120','耐克耐克耐克','10','0','1','0','1','耐克','耐克','1463125712')
+Unknown column 'keywords' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,is_best,is_new,is_hot,is_on_sale,goods_brief,add_time) values ('耐克','asdfasdf','1','100','120','耐克耐克耐克','10','0','1','0','1','耐克','1463125787')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into category (cat_name,parent_id,intro) values ('男装','0','男装')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into category (cat_name,parent_id,intro) values ('女装','0','女装')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into category (cat_name,parent_id,intro) values ('男士商务','1','男士商务')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into category (cat_name,parent_id,intro) values ('女士商务','2','女士商务')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,is_best,is_new,is_hot,is_on_sale,goods_brief,add_time) values ('男士西服','','1','100','120','男士西服','10','1','1','1','1','男士西服','1463130786')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,is_best,is_new,is_hot,is_on_sale,goods_brief,add_time) values ('女士西服','sn101','2','101','120','女士西服','9','0','1','1','1','女士西服','1463130864')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_best,is_new,is_hot,is_on_sale,goods_brief,add_time) values ('男士领带','sn102','1','100','120','男士领带','1','10','0','1','0','1','男士领带','1463131505')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+update:update goods set is_delete='1' where goods_id=1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+update:update goods set is_delete='1' where goods_id=1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+update:update goods set is_delete='1' where goods_id=1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+update:update goods set is_delete='1' where goods_id=1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+update:update goods set is_delete='1' where goods_id=2
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8

@@ -9,12 +9,5 @@
 
 header('Content-type:text/html;charset=utf-8');
 
+define('ACC', true);
 require('./include/init.php');
-
-$testModel = new TestModel();
-
-$result = $testModel->reg(array('title'=>'titletest', 'content'=>'contenttitle'));
-
-var_dump($result);
-
-

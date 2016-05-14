@@ -5,6 +5,7 @@
  * Date: 2016/5/9
  * Time: 11:37
  */
+defined('ACC') || exit('ACC Denied');
 
 class mysql extends db
 {

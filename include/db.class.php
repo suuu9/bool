@@ -6,6 +6,7 @@
  * Date: 16-4-12
  * Time: 上午11:12
  */
+defined('ACC') || exit('ACC Denied');
 
 abstract class db {
 

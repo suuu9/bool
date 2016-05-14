@@ -7,6 +7,7 @@
  * Date: 16-4-12
  * Time: 下午2:34
  */
+defined('ACC') || exit('ACC Denied');
 
 
     /**

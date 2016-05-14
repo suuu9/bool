@@ -7,6 +7,7 @@
  * Date: 16-4-12
  * Time: 下午1:51
  */
+defined('ACC') || exit('ACC Denied');
 
 class log {
     const LOGFILE = 'curr.log';

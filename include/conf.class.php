@@ -7,6 +7,7 @@
  * Date: 16-4-12
  * Time: 下午1:12
  */
+defined('ACC') || exit('ACC Denied');
 
 class conf {
 

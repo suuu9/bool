@@ -6,7 +6,8 @@
  * Date: 16-4-12
  * Time: 上午11:02
  */
-
+header("Content-type: text/html; charset=utf-8");
+defined('ACC') || exit('ACC Denied');
 //定义根目录 替换反斜杠 linux不支持反斜杠
 define('ROOT',str_replace('\\','/',dirname(dirname(__FILE__))) . '/');
 define('DEBUG', true);

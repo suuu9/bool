@@ -5,6 +5,7 @@
  * Date: 2016/5/9
  * Time: 18:06
  */
+defined('ACC') || exit('ACC Denied');
 
 class TestModel extends Model
 {

@@ -7,6 +7,7 @@
  * Date: 16-4-12
  * Time: 上午11:49
  */
+defined('ACC') || exit('ACC Denied');
 
 $_CFG = array(
     'host' => 'localhost',

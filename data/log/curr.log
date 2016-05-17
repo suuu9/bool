@@ -1040,3 +1040,200 @@ set names utf8
 connect:localhost,root,123456
 use boolshop
 set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time) values ('阿迪达斯','sn10010101','1','100','100','阿迪达斯_autoFill','0.01','100','on','on','阿迪达斯阿迪达斯','0','0','1463198416')
+Incorrect integer value: 'on' for column 'is_new' at row 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time) values ('海澜之家','sn213123','1','100','120','海澜之家','0.01','100','on','on','海澜之家','0','0','1463198660')
+Incorrect integer value: 'on' for column 'is_new' at row 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time) values ('海澜之家','sn213123','1','100','120','海澜之家','0.01','100','on','on','海澜之家','0','0','1463198731')
+Incorrect integer value: 'on' for column 'is_new' at row 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time) values ('海澜之家','sn213123','1','100','120','海澜之家','0.01','100','on','on','海澜之家','0','0','1463198811')
+Incorrect integer value: 'on' for column 'is_new' at row 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time) values ('海澜之家','sn213123','1','100','120','海澜之家','0.01','100','on','on','海澜之家','0','0','1463198814')
+Incorrect integer value: 'on' for column 'is_new' at row 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time) values ('海澜之家','sn123123','1','100','120','海澜之家','0.01','100','1','1','海澜之家','0','0','1463198837')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,goods_brief,is_hot,is_new,is_best,add_time) values ('','','1','','','','0','','','0','0','0','1463308992')
+Incorrect decimal value: '' for column 'shop_price' at row 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,goods_brief,is_hot,is_new,is_best,add_time) values ('','','1','','','','0','','','0','0','0','1463309056')
+Incorrect decimal value: '' for column 'shop_price' at row 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,goods_brief,is_hot,is_new,is_best,add_time) values ('','','1','','','','0','','','0','0','0','1463309088')
+Incorrect decimal value: '' for column 'shop_price' at row 1

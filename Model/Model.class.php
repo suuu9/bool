@@ -9,9 +9,14 @@ defined('ACC') || exit('ACC Denied');
 
 class Model
 {
-    protected $table = null;    //model¿ØÖÆµÄ±íÃ÷
-    protected $db = null;       //ÒıÈëmysql¶ÔÏó
+    protected $table = null;    //æ˜¯modelæ‰€æ§åˆ¶çš„è¡¨
+    protected $db = null;       //æ˜¯å¼•å…¥çš„mysqlå¯¹è±¡
+
     protected $pk = '';
+    protected $_auto = array();
+    protected $_valid = array();
+    protected $error = array();
+
 
     public function __construct() {
         $this->db = mysql::getIns();
@@ -22,20 +27,142 @@ class Model
     }
 
     /**
-     * Ìí¼Óadd
-     * @param array
+     * è·å¾—è¡¨ç»“æ„
+     */
+    public function _filed() {
+        $sql = "select * from " . $this->table;
+        return $this->db->getFileds($sql);
+    }
+
+    /**
+     * è‡ªåŠ¨è¿‡æ»¤å‚æ•°
+     */
+    public function _facade($array = array()) {
+        $data = array();
+
+        foreach($array   as $k=>$v) {
+            if(in_array($k, $this->_filed())) {
+                $data[$k] = $v;
+            }
+        }
+
+        return $data;
+    }
+
+    /**
+     * è‡ªåŠ¨å¡«å……å‚æ•°
+     */
+    public function _autoFill($data) {
+        foreach($this->_auto as $k=>$v) {
+            if(!array_key_exists($v[0], $data)) {
+                switch($v[1]) {
+                    case 'value':
+                        $data[$v[0]] = $v[2];
+                        break;
+                    case 'function':
+                        $data[$v[0]] = call_user_func($v[2]);
+                        break;
+                }
+            }
+        }
+
+        return $data;
+    }
+
+    /**
+     * è‡ªåŠ¨éªŒè¯å‚æ•°
+     */
+    public function _validate($data) {
+        if(empty($this->_valid)) {
+            return true;
+        }
+
+        $this->error = array();
+
+        foreach($this->_valid as $k=>$v) {
+            switch($v[1]) {
+                case 1:
+                    if(!isset($data[$v[0]])) {
+                        $this->error[] = $v[2];
+                        return false;
+                    }
+
+                    if(!$this->check($data[$v[0]], $v[3])) {
+                        $this->error[] = $v[2];
+                        return false;
+                    }
+
+                    break;
+                case 0:
+                    if(isset($data[$v[0]])) {
+                        if(!$this->check($data[$v[0]], $v[3], $v[4])) {
+                            $this->error[] = $v[2];
+                            return false;
+                        }
+                    }
+
+                    break;
+                case 2:
+                    if(isset($data[$v[0]]) && !empty($data[$v[0]])) {
+                        if(!$this->check($data[$v[0]], $v[3], $v[4])) {
+                            $this->error[] = $v[2];
+                            return false;
+                        }
+                    }
+            }
+        }
+
+        return true;
+    }
+
+    /**
+     * éªŒè¯è§„åˆ™
+     * @param $value
+     * @param string $rule
+     * @param string $parm
      * @return bool
+     */
+    protected function check($value, $rule='', $parm='') {
+        switch($rule) {
+            case 'require':
+                return !empty($value);
+            case 'number':
+                return is_numeric($value);
+            case 'in':
+                $tmp = explode(',', $parm);
+                return in_array($value, $tmp);
+            case 'between':
+                list($min, $max) = explode(',' ,$parm);
+                return $value >= $min && $value <= $max;
+            case 'length':
+                list($min, $max) = explode(',' ,$parm);
+                return strlen($value) >= $min && strlen($value) <= $max;
+            default:
+                return false;
+        }
+    }
+
+    /**
+     * @return array
+     */
+    public function getErr() {
+        return $this->error;
+    }
+
+    /**
+     * æ·»åŠ add
+     * @param $data
+     * @return array|mixed|resource
      */
     public function add($data) {
         return $this->db->autoExecute($this->table,$data);
     }
 
     /**
-     * É¾³ı
+     * åˆ é™¤
      * @param $id
-     * @return Ó°ÏìµÄº¯Êı
+     * @return bool|int
      */
-
     public function delete($id) {
         $sql = "delete from " . $this->table . " where " . $this->pk . '=' .$id;
         if($this->db->query($sql)) {
@@ -46,10 +173,10 @@ class Model
     }
 
     /**
-     * ¸üĞÂ
+     * æ›´æ–°
      * @param array
      * @param id
-     * @return int Ó°ÏìĞĞÊı
+     * @return int
      */
     public function update($data, $id) {
         $result = $this->db->autoExecute($this->table, $data, 'update', ' where ' . $this->pk . '=' . $id);
@@ -61,7 +188,7 @@ class Model
     }
 
     /**
-     * ²éÑ¯ÁĞ±í
+     * æŸ¥è¯¢
      * @return array
      */
     public function select() {
@@ -70,7 +197,7 @@ class Model
     }
 
     /**
-     * »ñÈ¡µ¥ĞĞ
+     * æŸ¥è¯¢å•ä¸ª
      * @param $id
      * @return array
      */

@@ -117,13 +117,13 @@
                                     <div class="am-u-sm-8 am-u-md-10">
                                         <div class="am-btn-group" data-am-button>
                                             <label class="am-btn am-btn-default am-btn-xs">
-                                                <input type="checkbox" id="option1" name="is_best"> 精品
+                                                <input type="checkbox" id="option1" name="is_best" value="1"> 精品
                                             </label>
                                             <label class="am-btn am-btn-default am-btn-xs">
-                                                <input type="checkbox" id="option2" name="is_new"> 新品
+                                                <input type="checkbox" id="option2" name="is_new" value="1"> 新品
                                             </label>
                                             <label class="am-btn am-btn-default am-btn-xs">
-                                                <input type="checkbox" id="option3" name="is_hot"> 热销
+                                                <input type="checkbox" id="option3" name="is_hot" value="1"> 热销
                                             </label>
                                         </div>
                                     </div>
@@ -133,7 +133,7 @@
                                     <div class="am-u-sm-8 am-u-md-10">
                                         <div class="am-btn-group" data-am-button>
                                             <label class="am-btn am-btn-default am-btn-xs">
-                                                <input type="checkbox" name="is_on_sale"> 上架
+                                                <input type="checkbox" name="is_on_sale" value="1"> 上架
                                             </label>
                                         </div>
                                     </div>

@@ -41,7 +41,7 @@ class mysql extends db
     {
         $this->conn = mysql_connect($h, $u, $p);
         if (!$this->conn) {
-            $err = new Exception('Á¬½ÓÊ§°Ü');
+            $err = new Exception('è¿žæŽ¥æ•°æ®åº“å¤±è´¥');
             throw $err;
         }
         log::write('connect:' . $h .',' . $u .','. $p);
@@ -139,5 +139,17 @@ class mysql extends db
 
     public function insert_id() {
         return mysql_insert_id($this->conn);
+    }
+
+    public function getFileds($sql)
+    {
+        $rs = $this->query($sql);
+        $count = mysql_num_fields($rs);
+
+        for($i=0; $i<$count; $i++) {
+            $fileds[] = mysql_field_name($rs, $i);
+        }
+
+        return $fileds;
     }
 }

@@ -12,4 +12,8 @@
 define('ACC', true);
 require('../include/init.php');
 
+$cat = new CatModel();
+$catlist = $cat->select();
+$catlist = $cat->getCatTree($catlist);
+
 include(ROOT . 'view/admin/admin_goods_add.php');

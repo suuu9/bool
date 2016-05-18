@@ -1237,3 +1237,166 @@ use boolshop
 set names utf8
 insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,goods_brief,is_hot,is_new,is_best,add_time) values ('','','1','','','','0','','','0','0','0','1463309088')
 Incorrect decimal value: '' for column 'shop_price' at row 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,ori_img,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time) values ('阿尼玛','asdf123','1','100','102','2978277414-54783ccb6a671_articlex.jpg','阿尼玛','10','100','1','1','阿尼玛','0','0','1463453437')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,ori_img,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time) values ('阿尼玛2','asdf1232','1','100','102','','阿尼玛','10','100','1','1','阿尼玛阿尼玛阿尼玛','0','0','1463453586')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,ori_img,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time) values ('阿尼玛2','asdf1232','1','100','102','','阿尼玛','10','100','1','1','阿尼玛阿尼玛阿尼玛','0','0','1463453669')
+Duplicate entry 'asdf1232' for key 'goods_sn'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,ori_img,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time) values ('阿尼玛3','asdf12323','1','100','102','','阿尼玛','10','100','1','1','阿尼玛阿尼玛阿尼玛3','0','0','1463453765')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time,ori_img) values ('阿尼玛3','anm123','1','100','120','阿尼玛3','1','100','1','1','阿尼玛3阿尼玛3阿尼玛3','0','0','1463453810','')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+UpTool
+connect:localhost,root,123456
+use boolshop
+set names utf8
+UpTool
+connect:localhost,root,123456
+use boolshop
+set names utf8
+UpTool
+connect:localhost,root,123456
+use boolshop
+set names utf8
+UpTool
+connect:localhost,root,123456
+use boolshop
+set names utf8
+UpTool
+UpTool 111
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+size:4595---allowE:jpg,jpeg,gif,png,png
+connect:localhost,root,123456
+use boolshop
+set names utf8
+size:4595---allowE:jpg,jpeg,gif,png,png
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time,ori_img) values ('是打发','sns999','1','100','120','是打发是打发是打发','1','123','1','1','是打发是打发是打发是打发是打发','0','0','1463456206','data/images/20160517/d7gijk.jpg')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time,ori_img,goods_img,thumb_img) values ('爱开始叫对方','sn123123','1','100','120','爱开始叫对方','100','1000','1','1','爱开始叫对方爱开始叫对方爱开始叫对方','0','0','1463555290','data/images/20160518/6ekr8j.jpg','data/images/20160518/goods_6ekr8j.jpg','data/images/20160518/thumb_6ekr8j.jpg')
+Duplicate entry 'sn123123' for key 'goods_sn'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time,ori_img,goods_img,thumb_img) values ('爱开始叫对方','qwe123','1','100','120','爱开始叫对方','100','1000','1','1','爱开始叫对方爱开始叫对方爱开始叫对方','0','0','1463555322','data/images/20160518/fih3qr.jpg','data/images/20160518/goods_fih3qr.jpg','data/images/20160518/thumb_fih3qr.jpg')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time,ori_img,goods_img,thumb_img) values ('货号','BL2016051815405','1','123','123','123123123','123','123','1','1','123123123123123123123123123','0','0','1463557961','data/images/20160518/4rabuq.jpg','data/images/20160518/goods_4rabuq.jpg','data/images/20160518/thumb_4rabuq.jpg')

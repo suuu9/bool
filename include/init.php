@@ -25,6 +25,8 @@ require(ROOT . 'include/lib_base.php');
 function __autoload($class) {
     if(strtolower(substr($class, -5)) == 'model'){
         require(ROOT . 'model/' . $class . '.class.php');
+    } else if(strtolower(substr($class, -4)) == 'tool') {
+        require(ROOT . 'tool/' . $class . '.class.php');
     } else {
         require(ROOT . 'include/' . $class . '.class.php');
     }

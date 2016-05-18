@@ -10,7 +10,7 @@
             </div>
 
             <hr>
-            <form class="am-form" action="goodsaddAct.php" method="POST">
+            <form class="am-form" action="goodsaddAct.php" method="POST" enctype="multipart/form-data">
                 <div class="am-tabs am-margin" data-am-tabs>
                     <ul class="am-tabs-nav am-nav am-nav-tabs">
                         <li class="am-active"><a href="#tab1">基本信息</a></li>
@@ -43,8 +43,12 @@
                                 <div class="am-u-sm-4 am-u-md-2 am-text-right">商品分类</div>
                                 <div class="am-u-sm-8 am-u-md-10">
                                     <select data-am-selected="{btnSize: 'sm'}" name="cat_id">
-                                        <option value="1">男装</option>
-                                        <option value="2">女装</option>
+                                        <?php foreach($catlist as $v) { ?>
+                                            <option value="<?Php echo $v['cat_id'];?>">
+                                                <?php echo str_repeat('&nbsp;', $v['lev']);?>
+                                                <?Php echo $v['cat_name'];?>
+                                            </option>
+                                        <?php } ?>
                                     </select>
                                 </div>
                             </div>
@@ -71,7 +75,7 @@
                                     上传商品图片
                                 </div>
                                 <div class="am-u-sm-8 am-u-md-4">
-                                    <input type="text" class="am-input-sm">
+                                    <input type="file" class="am-input-sm" name="ori_img">
                                 </div>
                                 <div class="am-hide-sm-only am-u-md-6"></div>
                             </div>

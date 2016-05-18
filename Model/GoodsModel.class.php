@@ -53,4 +53,12 @@ class GoodsModel extends Model
         $sql = "select * from " . $this->table . " where is_delete=1";
         return $this->db->getAll($sql);
     }
+
+    public function createSn() {
+        $sn = 'BL' . date('Ymd') . rand(10000,99999);
+
+        $sql = "select count(*) from " . $this->table . " where goods_sn = '" . $sn . "'";
+
+        return $this->db->getOne($sql) ? $this->createSn() : $sn;
+    }
 }

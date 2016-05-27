@@ -1400,3 +1400,3154 @@ connect:localhost,root,123456
 use boolshop
 set names utf8
 insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time,ori_img,goods_img,thumb_img) values ('货号','BL2016051815405','1','123','123','123123123','123','123','1','1','123123123123123123123123123','0','0','1463557961','data/images/20160518/4rabuq.jpg','data/images/20160518/goods_4rabuq.jpg','data/images/20160518/thumb_4rabuq.jpg')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into user (username,email,passwd) values ('xsuing','565530628@qq.com','123456')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into user (username,email,passwd) values ('xsuing123','123456789@qq.com','123456')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into user (username,email,passwd,passwd2,regtime) values ('hello','123456@qq.com','123456','123456','1463987719')
+Unknown column 'passwd2' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into user (username,email,passwd) values ('hello','123456@qq.com','123456')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into user (username,email,passwd,regtime) values ('hello2','helloworld123@qq.com','123456','1463988107')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into user (username,email,passwd,regtime) values ('test','test1@qq.com','e10adc3949ba59abbe56e057f20f883e','1463988376')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into user (username,email,passwd,regtime) values ('test2','123@qq.com','e10adc3949ba59abbe56e057f20f883e','1463989307')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'test2' in 'where clause'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+              use boolshop
+              set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+6
+connect:localhost,root,123456
+use boolshop
+set names utf8
+2
+connect:localhost,root,123456
+use boolshop
+set names utf8
+密码不服1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+密码不服6
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+ no remember:
+connect:localhost,root,123456
+use boolshop
+set names utf8
+ no remember:
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+update:update goods set is_delete='1' where goods_id=4
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from goods order by add_time limit 5' at line 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'addtime' in 'order clause'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'addtime' in 'order clause'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') order by add_time limit 5' at line 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') order by add_time limit 5' at line 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') order by add_time limit 5' at line 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') order by add_time limit 5' at line 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') order by add_time limit 5' at line 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') order by add_time limit 5' at line 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') order by add_time limit 5' at line 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') order by add_time limit 5' at line 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') order by add_time limit 5' at line 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') order by add_time limit 5' at line 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') order by add_time limit 5' at line 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') order by add_time limit 5' at line 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') order by add_time limit 5' at line 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'id' in 'where clause'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'id' in 'where clause'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'id' in 'where clause'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'id' in 'where clause'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'id' in 'where clause'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'id' in 'where clause'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'id' in 'where clause'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'id' in 'where clause'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'id' in 'where clause'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'id' in 'where clause'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'id' in 'where clause'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'id' in 'where clause'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'id' in 'where clause'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'id' in 'where clause'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'id' in 'where clause'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'id' in 'where clause'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'id' in 'where clause'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'id' in 'where clause'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'id' in 'where clause'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+Unknown column 'id' in 'where clause'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,user_name) values ('石家庄','xxoo','123456789@qq.com','石家庄长安区','111','123456','13663216162','111','','4','1464163472','799','0','匿名')
+Unknown column 'add_time' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,user_name) values ('石家庄','xxoo','123456789@qq.com','石家庄长安区','111','123456','13663216162','111','','4','1464164175','799','0','匿名')
+Unknown column 'user_name' in 'field list'
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username) values ('石家庄','xxoo','123456789@qq.com','石家庄长安区','111','123456','13663216162','111','','4','1464164247','799','0','匿名')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username) values ('北京','小北京','123456789@qq.com','北京海淀','123456','123456','13663216162','天安门','20160601','4','1464164358','1566','6','test2')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('石家庄','苏子严','123456789@qq.com','石家庄长安区','123456','123456','13663216162','是打发','20160601','4','1464168843','1566','6','test2','OI2016052549630')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('石家庄','苏子严','123456789@qq.com','石家庄长安区','123456','123456','13663216162','是打发','20160601','4','1464168918','1566','6','test2','OI2016052587375')
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal) values ('2','OI2016052587375','2','纯羊毛一粒扣枪驳领纯黑西服套装','1','999.00','999')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('北京','小北京','123456789@qq.com','北京海地区','123456','123456','123456','天安门','20160601','4','1464169335','1516','6','test2','OI2016052560670')
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal,add_time) values ('1','OI2016052560670','1','两扣双开衩平驳头斜兜男士西服套装3312/纯藏青色人字纹/羊毛+涤纶','1','799.00','799','1464169335')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('北京','小北京','123456789@qq.com','北京海地区','123456','123456','123456','天安门','20160601','4','1464169388','1516','6','test2','OI2016052554719')
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal,add_time) values ('2','OI2016052554719','1','两扣双开衩平驳头斜兜男士西服套装3312/纯藏青色人字纹/羊毛+涤纶','1','799.00','799','1464169388')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('北京','小北京','123456789@qq.com','北京海地区','123456','123456','123456','天安门','20160601','4','1464169431','1516','6','test2','OI2016052591760')
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal,add_time) values ('3','OI2016052591760','1','两扣双开衩平驳头斜兜男士西服套装3312/纯藏青色人字纹/羊毛+涤纶','1','799.00','799','1464169431')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('北京','小北京','123456789@qq.com','北京海地区','123456','123456','123456','天安门','20160601','4','1464169484','1516','6','test2','OI2016052511865')
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal,add_time) values ('4','OI2016052511865','1','两扣双开衩平驳头斜兜男士西服套装3312/纯藏青色人字纹/羊毛+涤纶','1','799.00','799','1464169484')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('北京','小北京','123456789@qq.com','北京海地区','123456','123456','123456','天安门','20160601','4','1464169544','1516','6','test2','OI2016052597064')
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal,add_time) values ('5','OI2016052597064','1','两扣双开衩平驳头斜兜男士西服套装3312/纯藏青色人字纹/羊毛+涤纶','1','799.00','799','1464169544')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('北京','小北京','123456789@qq.com','北京海地区','123456','123456','123456','天安门','20160601','4','1464169711','1516','6','test2','OI2016052546408')
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal,add_time) values ('6','OI2016052546408','1','两扣双开衩平驳头斜兜男士西服套装3312/纯藏青色人字纹/羊毛+涤纶','1','799.00','799','1464169711')
+update goods set goods_number = goods_number - 1 where goods_id = 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('北京','小北京','123456789@qq.com','北京海淀区','123456','123456','123456','天安门','20160601','4','1464169898','1366','6','test2','OI2016052592645')
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal,add_time) values ('7','OI2016052592645','7','枪驳大领面后开叉短款两扣女士正装','1','567.00','567','1464169898')
+update goods set goods_number = goods_number - 1 where goods_id = 7
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('北京','小北京','123456789@qq.com','北京海淀区','123456','123456','123456','天安门','20160601','4','1464170231','1366','6','test2','OI2016052520789')
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal,add_time) values ('1','OI2016052520789','7','枪驳大领面后开叉短款两扣女士正装','1','567.00','567','1464170231')
+update goods set goods_number = goods_number - 1 where goods_id = 7
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal,add_time) values ('1','OI2016052520789','1','两扣双开衩平驳头斜兜男士西服套装3312/纯藏青色人字纹/羊毛+涤纶','1','799.00','799','1464170231')
+update goods set goods_number = goods_number - 1 where goods_id = 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('北京','小北京','123456789@qq.com','北京海淀区','123456','123456','123456','天安门','20160601','4','1464170303','0','6','test2','OI2016052543451')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('北京','小北京','123456789@qq.com','北京海淀区','123456','123456','123456','天安门','20160601','4','1464170380','0','6','test2','OI2016052512748')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('北京','小北京','565530628@qq.com','北京海地区','123456','123456','13663216162','天安门','20160601','4','1464170683','1087','6','test2','OI2016052591679')
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal,add_time) values ('1','OI2016052591679','1','两扣双开衩平驳头斜兜男士西服套装3312/纯藏青色人字纹/羊毛+涤纶','1','799.00','799','1464170683')
+update goods set goods_number = goods_number - 1 where goods_id = 1
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal,add_time) values ('1','OI2016052591679','20','深蓝纯色领带','1','89.00','89','1464170683')
+update goods set goods_number = goods_number - 1 where goods_id = 20
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal,add_time) values ('1','OI2016052591679','18','简约中跟女士正装鞋黑色','1','199.00','199','1464170683')
+update goods set goods_number = goods_number - 1 where goods_id = 18
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('北京','小北京','565530628@qq.com','北京海地区','123456','123456','13663216162','天安门','20160601','4','1464170701','0','6','test2','OI2016052584213')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('北京','小北京','565530628@qq.com','北京海地区','123456','123456','13663216162','天安门','20160601','4','1464170704','0','6','test2','OI2016052511004')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('北京','小北京','565530628@qq.com','北京海地区','123456','123456','13663216162','天安门','20160601','4','1464170705','0','6','test2','OI2016052575037')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('北京','小北京','565530628@qq.com','北京海地区','123456','123456','13663216162','天安门','20160601','4','1464170706','0','6','test2','OI2016052544442')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('北京','小北京','565530628@qq.com','北京海地区','123456','123456','13663216162','天安门','20160601','4','1464170708','0','6','test2','OI2016052559462')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('北京','小北京','565530628@qq.com','北京海地区','123456','123456','13663216162','天安门','20160601','4','1464170846','0','6','test2','OI2016052590630')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('北京','小北京','565530628@qq.com','北京海淀','123456','123456','13663216162','天安门','20160601','4','1464170882','1644','6','test2','OI2016052555427')
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal,add_time) values ('2','OI2016052555427','1','两扣双开衩平驳头斜兜男士西服套装3312/纯藏青色人字纹/羊毛+涤纶','1','799.00','799','1464170882')
+update goods set goods_number = goods_number - 1 where goods_id = 1
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal,add_time) values ('2','OI2016052555427','7','枪驳大领面后开叉短款两扣女士正装','1','567.00','567','1464170882')
+update goods set goods_number = goods_number - 1 where goods_id = 7
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal,add_time) values ('2','OI2016052555427','14','男士系带正装鞋/黑色/牛皮','1','150.00','150','1464170882')
+update goods set goods_number = goods_number - 1 where goods_id = 14
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal,add_time) values ('2','OI2016052555427','21','100%桑蚕丝天蓝底黑斜纹领带','1','128.00','128','1464170882')
+update goods set goods_number = goods_number - 1 where goods_id = 21
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('北京','小北京','565530628@qq.com','北京海淀','123456','123456','13663216162','天安门','20160601','4','1464170892','0','6','test2','OI2016052582972')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('北京','小北京','565530628@qq.com','配送区域','123456','123456','13663216162','天安门','20160601','4','1464170978','1317','6','test2','OI2016052520245')
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal,add_time) values ('1','OI2016052520245','2','纯羊毛一粒扣枪驳领纯黑西服套装','1','999.00','999','1464170978')
+update goods set goods_number = goods_number - 1 where goods_id = 2
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal,add_time) values ('1','OI2016052520245','9','本白压褶下摆短袖套裙','1','318.00','318','1464170978')
+update goods set goods_number = goods_number - 1 where goods_id = 9
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('北京','小北京','565530628@qq.com','配送区域','123456','123456','13663216162','天安门','20160601','4','1464170989','0','6','test2','OI2016052580326')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('北京','小北京','565530628@qq.com','配送区域','123456','123456','13663216162','天安门','20160601','4','1464171111','1033','6','test2','OI2016052529290')
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal,add_time) values ('1','OI2016052529290','1','两扣双开衩平驳头斜兜男士西服套装3312/纯藏青色人字纹/羊毛+涤纶','1','799.00','799','1464171111')
+update goods set goods_number = goods_number - 1 where goods_id = 1
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal,add_time) values ('1','OI2016052529290','19','单侧镶钻漆皮中跟正装鞋/黑色','1','145.00','145','1464171111')
+update goods set goods_number = goods_number - 1 where goods_id = 19
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal,add_time) values ('1','OI2016052529290','20','深蓝纯色领带','1','89.00','89','1464171111')
+update goods set goods_number = goods_number - 1 where goods_id = 20
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+FUNCTION boolshop.cat_id does not exist
+connect:localhost,root,123456
+use boolshop
+set names utf8
+FUNCTION boolshop.cat_id does not exist
+connect:localhost,root,123456
+use boolshop
+set names utf8
+FUNCTION boolshop.cat_id does not exist
+connect:localhost,root,123456
+use boolshop
+set names utf8
+FUNCTION boolshop.cat_id does not exist
+connect:localhost,root,123456
+use boolshop
+set names utf8
+FUNCTION boolshop.cat_id does not exist
+connect:localhost,root,123456
+use boolshop
+set names utf8
+FUNCTION boolshop.cat_id does not exist
+connect:localhost,root,123456
+use boolshop
+set names utf8
+FUNCTION boolshop.cat_id does not exist
+connect:localhost,root,123456
+use boolshop
+set names utf8
+FUNCTION boolshop.cat_id does not exist
+connect:localhost,root,123456
+use boolshop
+set names utf8
+FUNCTION boolshop.cat_id does not exist
+connect:localhost,root,123456
+use boolshop
+set names utf8
+FUNCTION boolshop.cat_id does not exist
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id (2)
+FUNCTION boolshop.cat_id does not exist
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (3)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (3)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (3)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (3)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (3)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (3)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (3)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (3)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (3)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (1,2,3)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (4,5,6)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (4,5,6)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (4,5,6)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (4,5,6)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (3)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (3)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (3)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (3)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (3)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time,ori_img,goods_img,thumb_img) values ('男士西服1','BL2016052654049','1','10','100','男士西服1','1','100','1','1','男士西服1','0','0','1464254913','data/images/20160526/3pocfd.jpg','data/images/20160526/goods_3pocfd.jpg','data/images/20160526/thumb_3pocfd.jpg')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time,ori_img,goods_img,thumb_img) values ('男士西服2','BL2016052616992','1','10','100','男士西服1','2','100','1','1','男士西服2','0','0','1464254926','data/images/20160526/9rgy87.jpg','data/images/20160526/goods_9rgy87.jpg','data/images/20160526/thumb_9rgy87.jpg')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time,ori_img,goods_img,thumb_img) values ('男士西服3','男士西服3','2','123','123','123','123','123','1','1','男士西服3','0','0','1464254998','data/images/20160526/ywtiub.jpg','data/images/20160526/goods_ywtiub.jpg','data/images/20160526/thumb_ywtiub.jpg')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time,ori_img,goods_img,thumb_img) values ('男士西服4','男士西服4','2','123','123','123','123','123','1','1','男士西服3','0','0','1464255006','data/images/20160526/rp2iq9.jpg','data/images/20160526/goods_rp2iq9.jpg','data/images/20160526/thumb_rp2iq9.jpg')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time,ori_img,goods_img,thumb_img) values ('男士西服5','男士西服5','2','123','123','123','123','123','1','1','男士西服3','0','0','1464255016','data/images/20160526/dhp5nk.jpg','data/images/20160526/goods_dhp5nk.jpg','data/images/20160526/thumb_dhp5nk.jpg')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time,ori_img,goods_img,thumb_img) values ('男士西服6','男士西服6','2','123','123','123','123','123','1','1','男士西服3','0','0','1464255024','data/images/20160526/qnr8sy.jpg','data/images/20160526/goods_qnr8sy.jpg','data/images/20160526/thumb_qnr8sy.jpg')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time,ori_img,goods_img,thumb_img) values ('男士西服7','男士西服7','2','123','123','123','123','123','1','1','男士西服3','0','0','1464255031','data/images/20160526/5rsypu.jpg','data/images/20160526/goods_5rsypu.jpg','data/images/20160526/thumb_5rsypu.jpg')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time,ori_img,goods_img,thumb_img) values ('男士西服8','男士西服8','2','123','123','123','123','123','1','1','男士西服3','0','0','1464255039','data/images/20160526/o8zaic.jpg','data/images/20160526/goods_o8zaic.jpg','data/images/20160526/thumb_o8zaic.jpg')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time,ori_img,goods_img,thumb_img) values ('男士西服9','男士西服9','2','123','123','123','123','123','1','1','男士西服3','0','0','1464255049','data/images/20160526/ve2pj7.jpg','data/images/20160526/goods_ve2pj7.jpg','data/images/20160526/thumb_ve2pj7.jpg')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (3)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time,ori_img,goods_img,thumb_img) values ('男士西服10','男士西服10','2','123','123','123','123','123','1','1','男士西服3','0','0','1464255094','data/images/20160526/q67as2.jpg','data/images/20160526/goods_q67as2.jpg','data/images/20160526/thumb_q67as2.jpg')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time,ori_img,goods_img,thumb_img) values ('男士西服11','男士西服11','2','123','123','123','123','123','1','1','男士西服3','0','0','1464255103','data/images/20160526/a8nelk.jpg','data/images/20160526/goods_a8nelk.jpg','data/images/20160526/thumb_a8nelk.jpg')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time,ori_img,goods_img,thumb_img) values ('男士西服12','男士西服12','2','123','123','123','123','123','1','1','男士西服3','0','0','1464255110','data/images/20160526/ktju79.jpg','data/images/20160526/goods_ktju79.jpg','data/images/20160526/thumb_ktju79.jpg')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time,ori_img,goods_img,thumb_img) values ('男士西服13','男士西服13','2','123','123','123','123','123','1','1','男士西服3','0','0','1464255118','data/images/20160526/gp7tc8.jpg','data/images/20160526/goods_gp7tc8.jpg','data/images/20160526/thumb_gp7tc8.jpg')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time,ori_img,goods_img,thumb_img) values ('男士西服14','男士西服14','2','123','123','123','123','123','1','1','男士西服3','0','0','1464255126','data/images/20160526/k8qi97.jpg','data/images/20160526/goods_k8qi97.jpg','data/images/20160526/thumb_k8qi97.jpg')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time,ori_img,goods_img,thumb_img) values ('男士西服15','男士西服15','2','123','123','123','123','123','1','1','男士西服3','0','0','1464255132','data/images/20160526/qbo5vu.jpg','data/images/20160526/goods_qbo5vu.jpg','data/images/20160526/thumb_qbo5vu.jpg')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into goods (goods_name,goods_sn,cat_id,shop_price,market_price,goods_desc,goods_weight,goods_number,is_new,is_on_sale,goods_brief,is_hot,is_best,add_time,ori_img,goods_img,thumb_img) values ('你好123','BL2016052657367','2','123','123','<p><img src=\"/ueditor/php/upload/image/20160526/1464258386641216.jpg\" title=\"1464258386641216.jpg\" alt=\"66_thumb_G_1301142081870.jpg\"/></p><p>男士西装</p>','12','123','1','1','男士西装','0','0','1464258410','data/images/20160526/l92pdw.jpg','data/images/20160526/goods_l92pdw.jpg','data/images/20160526/thumb_l92pdw.jpg')
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('石家庄','xxxooo','123456789@qq.com','石家庄长安区','123456','123456','13663216162','是打发','20160601','4','1464335084','799','6','test2','OI2016052767916')
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal,add_time) values ('2','OI2016052767916','1','两扣双开衩平驳头斜兜男士西服套装3312/纯藏青色人字纹/羊毛+涤纶','1','799.00','799','1464335084')
+update goods set goods_number = goods_number - 1 where goods_id = 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('石家庄','xxxooo','565530628@qq.com','石家庄长安区','123456','123456','13663216162','是打发','20160601','4','1464335280','799','6','test2','OI2016052797813')
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal,add_time) values ('3','OI2016052797813','1','两扣双开衩平驳头斜兜男士西服套装3312/纯藏青色人字纹/羊毛+涤纶','1','799.00','799','1464335280')
+update goods set goods_number = goods_number - 1 where goods_id = 1
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (1,2,3)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (4,5,6)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('石家庄','小北京','xxstop@qq.com','石家庄长安区','123456','123456','13663216162','是打发','20160601','4','1464336087','567','6','test2','OI2016052712345')
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal,add_time) values ('4','OI2016052712345','7','枪驳大领面后开叉短款两扣女士正装','1','567.00','567','1464336087')
+update goods set goods_number = goods_number - 1 where goods_id = 7
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (1,2,3)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (1,2,3)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('北京','配送区域','xxstop@qq.com','石家庄长安区','123456','123456','13663216162','天安门','20160601','4','1464336262','999','6','test2','OI2016052764086')
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal,add_time) values ('5','OI2016052764086','2','纯羊毛一粒扣枪驳领纯黑西服套装','1','999.00','999','1464336262')
+update goods set goods_number = goods_number - 1 where goods_id = 2
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (7,8,9)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (1,2,3)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (7,8,9)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (10,11,12)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('北京','小北京','565530628@qq.com','石家庄长安区','123456','123456','13663216162','天安门','20160601','4','1464336316','89','6','test2','OI2016052757890')
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal,add_time) values ('6','OI2016052757890','20','深蓝纯色领带','1','89.00','89','1464336316')
+update goods set goods_number = goods_number - 1 where goods_id = 20
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (1,2,3)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (4,5,6)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (1,2,3)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (1,2,3)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (1,2,3)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (1,2,3)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (2)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (5)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+select count(*) from goods where cat_id in (6)
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+insert:insert into orderinfo (zone,reciver,email,address,zipcode,tel,mobile,building,best_time,pay,add_time,order_amount,user_id,username,order_sn) values ('石家庄','小北京','xxstop@qq.com','石家庄长安区','123456','123456','13663216162','天安门','20160601','4','1464336417','99','6','test2','OI2016052769210')
+insert:insert into ordergoods (order_id,order_sn,goods_id,goods_name,goods_number,shop_price,subtotal,add_time) values ('7','OI2016052769210','12','女士长袖衬衫165/蓝条纹/莫代尔棉V领花边','1','99.00','99','1464336417')
+update goods set goods_number = goods_number - 1 where goods_id = 12
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8
+connect:localhost,root,123456
+use boolshop
+set names utf8

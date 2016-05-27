@@ -36,3 +36,6 @@ function __autoload($class) {
 $_GET = _addslashes($_GET);
 $_POST = _addslashes($_POST);
 $_COOKIE = _addslashes($_COOKIE);
+
+//开启session
+session_start();

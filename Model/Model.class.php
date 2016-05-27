@@ -87,7 +87,11 @@ class Model
                         return false;
                     }
 
-                    if(!$this->check($data[$v[0]], $v[3])) {
+                    if(!isset($v[4])) {
+                        $v[4] = '';
+                    }
+
+                    if(!$this->check($data[$v[0]], $v[3], $v[4])) {
                         $this->error[] = $v[2];
                         return false;
                     }
@@ -137,6 +141,8 @@ class Model
             case 'length':
                 list($min, $max) = explode(',' ,$parm);
                 return strlen($value) >= $min && strlen($value) <= $max;
+            case 'email':
+                return (filter_var($value, FILTER_VALIDATE_EMAIL) !== false);
             default:
                 return false;
         }
@@ -204,5 +210,13 @@ class Model
     public function find($id) {
         $sql = "select * from " . $this->table . ' where ' . $this->pk . "=" . $id;
         return $this->db->getRow($sql);
+    }
+
+    /**
+     * 获取最新插入的id
+     * @return int
+     */
+    public function insert_id() {
+        return $this->db->insert_id();
     }
 }

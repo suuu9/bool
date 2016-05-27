@@ -54,6 +54,10 @@ class GoodsModel extends Model
         return $this->db->getAll($sql);
     }
 
+    /**
+     * 生成商品订单号
+     * @return string
+     */
     public function createSn() {
         $sn = 'BL' . date('Ymd') . rand(10000,99999);
 
@@ -61,4 +65,81 @@ class GoodsModel extends Model
 
         return $this->db->getOne($sql) ? $this->createSn() : $sn;
     }
+
+    /**
+     * 取出指定条数的新品
+     * @param int $n
+     * @return array
+     */
+    public function getNew($n=5) {
+        $sql="select goods_id, goods_name, shop_price, market_price, thumb_img from " . $this->table . ' order by add_time limit 5';
+
+        return $this->db->getAll($sql);
+    }
+
+    /**
+     * 获取相应栏目下的商品
+     * @param $cat_id
+     * @param int $offset
+     * @param int $limit
+     * @return array
+     */
+    public function catGoods($cat_id, $offset=0, $limit=5) {
+        $category = new CatModel();
+        $cats = $category->select(); //取出所有的栏目
+        $sons = $category->getCatTree($cats, $cat_id); //取出给定栏目的子孙栏目
+
+        $sub = array($cat_id);
+
+        if(!empty($sons)) {
+            foreach($sons as $v) {
+                $sub[] = $v['cat_id'];
+            }
+        }
+
+        $in = implode(',',$sub);
+
+        $sql = 'select goods_id, goods_name, shop_price, market_price, thumb_img from ' . $this->table .
+            ' where cat_id in (' . $in . ') order by add_time limit ' . $offset . ',' . $limit;
+
+        return $this->db->getAll($sql);
+    }
+
+    /**
+     * @param $cat_id
+     * @return mixed
+     */
+    public function catGoodsCount($cat_id) {
+        $category = new CatModel();
+        $cats = $category->select(); //取出所有的栏目
+        $sons = $category->getCatTree($cats, $cat_id); //取出给定栏目的子孙栏目
+
+        $sub = array($cat_id);
+
+        if(!empty($sons)) {
+            foreach($sons as $v) {
+                $sub[] = $v['cat_id'];
+            }
+        }
+
+        $in = implode(',',$sub);
+
+        $sql = 'select count(*) from ' . $this->table . ' where cat_id in (' . $in . ')';
+        log::write($sql);
+        return $this->db->getOne($sql);
+    }
+
+    public function getCartGoods($items) {
+        foreach($items as $key=>$v) {
+            $sql = 'select goods_id, goods_name, shop_price, market_price, thumb_img from ' . $this->table .
+                ' where goods_id=' . $key;
+
+            $row = $this->db->getRow($sql);
+
+            $items[$key]['thumb_img'] = $row['thumb_img'];
+            $items[$key]['market_price'] = $row['market_price'];
+        }
+        return $items;
+    }
+
 }
